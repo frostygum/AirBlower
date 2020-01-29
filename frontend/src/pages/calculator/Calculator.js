@@ -18,7 +18,7 @@ const Calculator = () => {
     <Container className="">
       <Row className="min-vh-100 justify-content-center align-items-center">
         <Col sm="5">
-          <Nav location="calcu" />
+          <Nav location="calcu" /> you are at page : CALCULATOR
           <Card className="bg-dark text-light rounded-lg shadow">
             <CardBody>
               <h4 className="text-center mb-4">Counter</h4>

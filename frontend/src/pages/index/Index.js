@@ -25,7 +25,7 @@ const Index = () => {
     <Container>
       <Row className="mt-5">
         <Col sm="6">
-          <Nav location="index"/> 
+          <Nav location="index"/> you are at page : INDEX
           
           <Card>
             <CardBody>
